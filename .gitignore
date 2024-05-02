@@ -1,0 +1,15 @@
+# Node modules
+arachnospec_fe/node_modules/
+
+# Python virtual environments
+arachnospec_bk/venv/
+venv/
+
+# Package lock files
+package-lock.json
+arachnospec_fe/package-lock.json
+yarn.lock
+
+# Compiled Python files
+*.pyc
+__pycache__/
